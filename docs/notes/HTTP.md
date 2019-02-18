@@ -1,4 +1,4 @@
-[🍉 点击订阅面试进阶专栏 ](https://xiaozhuanlan.com/topic/2167809435)
+[🍉 点击阅读面试进阶指南 ](https://github.com/CyC2018/Backend-Interview-Guide)
 <!-- GFM-TOC -->
 * [一 、基础概念](#一-基础概念)
     * [URI](#uri)
@@ -67,7 +67,7 @@ URI 包含 URL 和 URN。
 - URL（Uniform Resource Locator，统一资源定位符）
 - URN（Uniform Resource Name，统一资源名称）
 
-<div align="center"> <img src="pics/766d401b-3cf6-475c-8ced-ea8c8db8edc5.png" width="700"/> </div><br>
+<div align="center"> <img src="pics/1_2001550415765493.png" width="500px"> </div><br>
 
 ## 请求和响应报文
 
